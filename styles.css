@@ -21,16 +21,87 @@ body {
     margin-bottom: 10px;
 }
 
-/* Header Image Styling */
-header {
-    text-align: center;
-    margin-bottom: 20px;
+/* Header styling */
+.custom-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(to right, #f5f5f5, #ffffff, #f5f5f5); /* Gradient background */
+    border-bottom: 5px solid #003366; /* Dark blue line */
 }
 
-header img {
-    width: 100%;
-    max-width: 910px; /* Adjust size according to your image */
+/* Left logo styling */
+.logo-left img, .logo-right img {
+    max-width: 100px; /* Logo size, adjusts with screen size */
     height: auto;
+}
+
+/* Title and subtitle styling */
+.header-title {
+    text-align: center;
+    flex-grow: 1; /* Allows title section to grow and stay centered */
+    padding: 0 20px; /* Adds padding around title */
+}
+.header-title h1 {
+    font-size: 1.8em;
+    color: #003366; /* Dark blue color for title */
+    margin: 0;
+}
+
+.header-title h2 {
+    font-size: 1.6em;
+    color: #003366;
+    margin: 0;
+    font-weight: bold;
+}
+
+.header-title p {
+    font-size: 1.1em;
+    color: #666666; /* Subtitle and author text color */
+    margin: 5px 0 0 0;
+}
+
+/* Right logo styling */
+.logo-right img {
+    max-width: 100px; /* Muhik logo size */
+    height: auto;
+}
+
+/* Dark blue separator */
+.separator {
+    height: 5px;
+    background-color: #003366; /* Dark blue line below the header */
+}
+
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .custom-header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .header-title {
+        padding: 10px 0;
+    }
+
+    .logo-left img, .logo-right img {
+        max-width: 80px; /* Smaller logos on small screens */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header-title h1 {
+        font-size: 1.4em;
+    }
+
+    .header-title h2 {
+        font-size: 1.2em;
+    }
+
+    .header-title p {
+        font-size: 1em;
+    }
 }
 
 section {
