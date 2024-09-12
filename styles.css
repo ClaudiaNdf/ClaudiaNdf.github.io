@@ -1,0 +1,48 @@
+body {
+    font-family: 'Arial', sans-serif; /* Change this to match the font used in your poster */
+    background-color: #f4f4f4; /* Light background color to match your poster theme */
+    margin: 0;
+    padding: 20px;
+}
+
+#toc {
+    background-color: #eeeeee;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#toc ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#toc li {
+    margin-bottom: 10px;
+}
+
+section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #333333; /* Headline color */
+}
+
+/* Box style similar to your poster */
+section {
+    border: 2px solid #dcdcdc;
+}
+
+a {
+    color: #0066cc; /* Link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
