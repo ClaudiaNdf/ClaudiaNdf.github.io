@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif; /* Change this to match the font used in your poster */
+    font-family: 'Calibri', sans-serif; /* Change this to match the font used in your poster */
     background-color: #f4f4f4; /* Light background color to match your poster theme */
     margin: 0;
     padding: 20px;
@@ -21,6 +21,18 @@ body {
     margin-bottom: 10px;
 }
 
+/* Header Image Styling */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header img {
+    width: 100%;
+    max-width: 800px; /* Adjust size according to your image */
+    height: auto;
+}
+
 section {
     padding: 20px;
     margin-bottom: 20px;
@@ -29,13 +41,23 @@ section {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Title Boxes */
 h2 {
-    color: #333333; /* Headline color */
+    background-color: #e1ecf7; /* Light blue background for section titles */
+    color: #333333; /* Darker color for text */
+    padding: 10px;
+    border: 2px solid #0066cc; /* Border to match your poster’s theme */
+    border-radius: 4px;
+    margin-top: 0;
+    cursor: pointer;
 }
 
 /* Box style similar to your poster */
 section {
-    border: 2px solid #dcdcdc;
+        background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 15px;
+    border-radius: 4px;
 }
 
 a {
