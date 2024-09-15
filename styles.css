@@ -170,3 +170,21 @@ a:hover {
         max-width: 100%;         /* Full-width image and text on small screens */
     }
 }
+
+/* Float image to the left */
+.float-image {
+    float: left;
+    margin: 0 20px 20px 0;  /* Adds space between the image and text */
+    max-width: 40%;         /* Ensures image doesn't take more than 40% width */
+    height: auto;           /* Maintain image aspect ratio */
+}
+
+/* Ensure text takes up full width on smaller screens */
+@media screen and (max-width: 768px) {
+    .float-image {
+        float: none;        /* Disable float on small screens */
+        margin: 0 auto;     /* Center the image */
+        display: block;
+        max-width: 100%;    /* Ensure image takes up full width */
+    }
+}
