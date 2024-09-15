@@ -142,32 +142,31 @@ a:hover {
 
 /* Flexbox container */
 .flex-container {
-    display: flex;           /* Enables flexbox layout */
-    flex-wrap: wrap;         /* Allows wrapping if there's not enough space */
-    align-items: flex-start; /* Align items to the top */
-    gap: 20px;               /* Adds space between the image and text */
-    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;                  /* Adds space between image and text */
+    align-items: flex-start;    /* Aligns image and text to the top */
 }
 
 /* Image styling */
 .flex-container img {
-    max-width: 50%;          /* Image will take up to 50% of the container width */
-    height: auto;            /* Maintain aspect ratio */
+    max-width: 50%;             /* Image takes up to 50% of available width */
+    height: auto;               /* Maintain aspect ratio */
 }
 
-/* Paragraph styling */
-.flex-container p {
-    flex: 1;                 /* Allows text to take the remaining space next to the image */
+/* Text container for theory description */
+.text-content {
+    flex: 1;                    /* Ensures the text container takes up the remaining width */
+    max-width: 50%;             /* Limits the text container to 50% width to match the image */
 }
 
-/* For smaller screens (mobile-friendly adjustments) */
+/* Responsive behavior for smaller screens */
 @media screen and (max-width: 768px) {
     .flex-container {
-        flex-direction: column;  /* Stack the image and text vertically on small screens */
+        flex-direction: column;  /* Stacks image and text vertically on smaller screens */
     }
 
-    .flex-container img {
-        max-width: 100%;         /* Full width image for small screens */
+    .flex-container img, .text-content {
+        max-width: 100%;         /* Full-width image and text on small screens */
     }
 }
-
