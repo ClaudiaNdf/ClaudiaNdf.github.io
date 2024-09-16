@@ -175,7 +175,7 @@ a:hover {
 .float-image {
     float: left;
     margin: 0 20px 20px 0;  /* Adds space between the image and text */
-    max-width: 40%;         /* Ensures image doesn't take more than 40% width */
+    max-width: 50%;         /* Ensures image doesn't take more than 40% width */
     height: auto;           /* Maintain image aspect ratio */
 }
 
