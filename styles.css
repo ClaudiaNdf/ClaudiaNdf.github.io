@@ -188,3 +188,7 @@ a:hover {
         max-width: 100%;    /* Ensure image takes up full width */
     }
 }
+
+.clearfix {
+    clear: both;
+}
