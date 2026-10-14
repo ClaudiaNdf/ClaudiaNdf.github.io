@@ -21,8 +21,8 @@
       "classroom-heterogeneity"
     ],
     "abstract": "",
-    "posterHtml": "poster/index.html"
-    "poster"
+    "posterHtml": "poster/index.html",
+    "poster":"poster/poster.pdf"
   },
   {
     "title": "Do Gender Norms for Achievement Affect Students’ Social Integration?",
