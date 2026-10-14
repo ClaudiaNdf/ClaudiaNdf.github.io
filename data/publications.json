@@ -1,17 +1,26 @@
 [
   {
-    "title": "The global structure of classroom social networks predicts academic and psycho-social adjustment",
-    "authors": "Neuendorf, C., Masuda, N., & Murayama, K.",
+    "title": "Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022)",
+    "authors": "Kopatz, M., Wagner, W., Neuendorf, C., Trautwein, U., Nagengast, B., & Bardach, L.",
     "year": 2026,
-    "type": "Publication",
-    "venue": "PNAS Nexus",
-    "doi": "10.1093/pnasnexus/pgag291",
-    "url": "https://doi.org/10.1093/pnasnexus/pgag291",
+    "type": "Preprint",
+    "venue": "PsyArXiv",
+    "url": "https://osf.io/preprints/psyarxiv/zkg9r_v1",
     "source": "CV (2026)",
     "topics": [
-      "peer-networks",
+      "classroom-heterogeneity",
       "methodology"
     ]
+  },
+  {
+    "title": "Empfehlungen zur Umsetzung von Open Science in der Empirischen Bildungsforschung – Gemeinsame Stellungnahme der GEBF und AEPF",
+    "authors": "",
+    "year": 2026,
+    "type": "Publication",
+    "venue": "2026",
+    "url": "https://doi.org/10.25656/01%3A34935",
+    "source": "ORCID",
+    "doi": "10.25656/01:34935"
   },
   {
     "title": "Investigating the reproducibility of the social and behavioural sciences",
@@ -26,6 +35,16 @@
       "open-science",
       "methodology"
     ]
+  },
+  {
+    "title": "Künstliche Intelligenz bei Abschlussarbeiten, Dissertationen und           Habilitationsschriften in der Psychologie",
+    "authors": "",
+    "year": 2026,
+    "type": "Publication",
+    "venue": "Psychologische Rundschau",
+    "url": "https://doi.org/10.1026/0033-3042/a000779",
+    "source": "ORCID",
+    "doi": "10.1026/0033-3042/a000779"
   },
   {
     "title": "Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis",
@@ -54,17 +73,28 @@
     ]
   },
   {
-    "title": "Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022)",
-    "authors": "Kopatz, M., Wagner, W., Neuendorf, C., Trautwein, U., Nagengast, B., & Bardach, L.",
+    "title": "The global structure of classroom social networks predicts academic and psycho-social adjustment",
+    "authors": "Neuendorf, C., Masuda, N., & Murayama, K.",
     "year": 2026,
-    "type": "Preprint",
-    "venue": "PsyArXiv",
-    "url": "https://osf.io/preprints/psyarxiv/zkg9r_v1",
+    "type": "Publication",
+    "venue": "PNAS Nexus",
+    "doi": "10.1093/pnasnexus/pgag291",
+    "url": "https://doi.org/10.1093/pnasnexus/pgag291",
     "source": "CV (2026)",
     "topics": [
-      "classroom-heterogeneity",
+      "peer-networks",
       "methodology"
     ]
+  },
+  {
+    "title": "Die Bedeutung individueller Merkmale und konstruktiver Unterstützung der Lehrkraft für die soziale Integration von Schülerinnen und Schülern: Eine konzeptuelle Replikationsstudie",
+    "authors": "",
+    "year": 2025,
+    "type": "Publication",
+    "venue": "",
+    "url": "https://doi.org/10.31234/osf.io/e468a_v1",
+    "source": "ORCID",
+    "doi": "10.31234/osf.io/e468a_v1"
   },
   {
     "title": "Multidimensional Heterogeneity: Conceptual Foundations and Measurement Strategies",
@@ -79,6 +109,16 @@
       "classroom-heterogeneity",
       "methodology"
     ]
+  },
+  {
+    "title": "The structure of classroom social networks predicts educational outcomes",
+    "authors": "",
+    "year": 2025,
+    "type": "Publication",
+    "venue": "",
+    "url": "https://doi.org/10.31234/osf.io/krcdm_v2",
+    "source": "ORCID",
+    "doi": "10.31234/osf.io/krcdm_v2"
   },
   {
     "title": "Seeing the teacher through my peers’ eyes? A social network study on adolescents’ teaching quality perceptions",
@@ -108,6 +148,16 @@
     ]
   },
   {
+    "title": "Data for Psychological Research in the Educational Field: Spotlights, Data Infrastructures, and Findings from Research",
+    "authors": "",
+    "year": 2023,
+    "type": "Publication",
+    "venue": "Journal of Open Psychology Data",
+    "url": "https://doi.org/10.5334/jopd.105",
+    "source": "ORCID",
+    "doi": "10.5334/jopd.105"
+  },
+  {
     "title": "Does Students’ Awareness of School-Track-Related Stereotypes Exacerbate Inequalities in Education?",
     "authors": "Bardach, L., Neuendorf, C., et al.",
     "year": 2023,
@@ -119,5 +169,125 @@
     "topics": [
       "high-achievers"
     ]
+  },
+  {
+    "title": "Eleven strategies for making reproducible research and open science training the norm at research institutions",
+    "authors": "",
+    "year": 2023,
+    "type": "Publication",
+    "venue": "eLife",
+    "url": "https://doi.org/10.7554/elife.89736",
+    "source": "ORCID",
+    "doi": "10.7554/elife.89736"
+  },
+  {
+    "title": "Nutzung von Logdaten in der empirischen Bildungsforschung",
+    "authors": "",
+    "year": 2022,
+    "type": "Publication",
+    "venue": "KonsortSWD Working Paper",
+    "url": "https://doi.org/10.5281/zenodo.7030996%20",
+    "source": "ORCID",
+    "doi": "10.5281/zenodo.7030996 "
+  },
+  {
+    "title": "Parents’ role construction for educational involvement and socioeconomic status: Relations to early adolescents’ academic self-concepts and achievement in reading, writing, and mathematics",
+    "authors": "",
+    "year": 2022,
+    "type": "Publication",
+    "venue": "",
+    "url": "https://doi.org/10.31219/osf.io/3kjqc",
+    "source": "ORCID",
+    "doi": "10.31219/osf.io/3kjqc"
+  },
+  {
+    "title": "Thematisierung von Replikationen und Open Science Praktiken in Lehre und Studium –             Die Rolle von Sekundärdatenanalysen",
+    "authors": "",
+    "year": 2022,
+    "type": "Publication",
+    "venue": "Psychologische Rundschau",
+    "url": "https://doi.org/10.1026/0033-3042/a000575",
+    "source": "ORCID",
+    "doi": "10.1026/0033-3042/a000575"
+  },
+  {
+    "title": "Wer ist leistungsstark? Operationalisierung von Leistungsstärke in                der empirischen Bildungsforschung seit dem Jahr 2000",
+    "authors": "",
+    "year": 2022,
+    "type": "Publication",
+    "venue": "Zeitschrift für Pädagogische Psychologie",
+    "url": "https://doi.org/10.1024/1010-0652/a000343",
+    "source": "ORCID",
+    "doi": "10.1024/1010-0652/a000343"
+  },
+  {
+    "title": "Erwerb des Zertifikats CoreTrustSeal (CTS) durch ein Forschungsdatenzentrum im Bildungsbereich – Motivation, Umsetzung und Lessons learned",
+    "authors": "",
+    "year": 2021,
+    "type": "Publication",
+    "venue": "Bausteine Forschungsdatenmanagement",
+    "url": "https://doi.org/10.17192/BFDM.2021.1.8310",
+    "source": "ORCID",
+    "doi": "10.17192/BFDM.2021.1.8310"
+  },
+  {
+    "title": "Welche Potenziale bieten Sekundäranalysen für die Erhöhung von Forschungsqualität und Replizierbarkeit",
+    "authors": "",
+    "year": 2021,
+    "type": "Publication",
+    "venue": "Zeitschrift für Pädagogik",
+    "url": "https://doi.org/10.3262/ZP2106840",
+    "source": "ORCID",
+    "doi": "10.3262/ZP2106840"
+  },
+  {
+    "title": "Assessing the re-use potential of research data in empirical educational research",
+    "authors": "",
+    "year": 2020,
+    "type": "Publication",
+    "venue": "RatSWD Working Paper Series",
+    "url": "https://doi.org/10.17620/02671.49",
+    "source": "ORCID",
+    "doi": "10.17620/02671.49"
+  },
+  {
+    "title": "Competence Development of High Achievers Within the Highest Track in German Secondary School: Evidence for Matthew Effects or Compensation?",
+    "authors": "",
+    "year": 2020,
+    "type": "Publication",
+    "venue": "",
+    "url": "https://doi.org/10.31234/osf.io/m23xj",
+    "source": "ORCID",
+    "doi": "10.31234/osf.io/m23xj"
+  },
+  {
+    "title": "Formulierungshilfen für Forschungsdatenzentren zum Thema Nutzungsbedingungen",
+    "authors": "",
+    "year": 2020,
+    "type": "Publication",
+    "venue": "RatSWD Working Paper Series",
+    "url": "https://doi.org/10.17620/02671.53",
+    "source": "ORCID",
+    "doi": "10.17620/02671.53"
+  },
+  {
+    "title": "Individual- and Organization-Level Work-to-Family Spillover Are Uniquely Associated with Hotel Managers' Work Exhaustion and Satisfaction",
+    "authors": "",
+    "year": 2016,
+    "type": "Publication",
+    "venue": "Frontiers in Psychology",
+    "url": "https://doi.org/10.3389/fpsyg.2016.01180",
+    "source": "ORCID",
+    "doi": "10.3389/fpsyg.2016.01180"
+  },
+  {
+    "title": "Leisure-Time Physical Activity Moderates the Longitudinal Associations between Work-Family Spillover and Physical Health",
+    "authors": "",
+    "year": 2015,
+    "type": "Publication",
+    "venue": "Journal of Leisure Research",
+    "url": "https://doi.org/10.1080/00222216.2015.11950370",
+    "source": "ORCID",
+    "doi": "10.1080/00222216.2015.11950370"
   }
 ]
