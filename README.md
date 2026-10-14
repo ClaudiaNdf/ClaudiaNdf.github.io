@@ -36,7 +36,7 @@ Open this folder in VS Code and start a local HTTP server (for example, in VS Co
 
 ## Updating the CV
 
-Replace `assets/Claudia_Neuendorf_short_CV_2026.pdf` to update the short CV, or `assets/Claudia_Neuendorf_CV_2026.docx` for the complete CV. The About page links both.
+Replace `assets/Claudia_Neuendorf_CV_2026.pdf` to update the CV.
 
 ## Automatically updating publications from ORCID
 
