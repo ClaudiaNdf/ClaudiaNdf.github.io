@@ -1,17 +1,31 @@
 [
-  {
-    "title": "Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022)",
-    "authors": "Kopatz, M., Wagner, W., Neuendorf, C., Trautwein, U., Nagengast, B., & Bardach, L.",
+   {
+    "title": "The global structure of classroom social networks predicts academic and psycho-social adjustment",
+    "authors": "Neuendorf, C., Masuda, N., & Murayama, K.",
     "year": 2026,
-    "type": "Preprint",
-    "venue": "PsyArXiv",
-    "url": "https://osf.io/preprints/psyarxiv/zkg9r_v1",
+    "type": "Publication",
+    "venue": "PNAS Nexus",
+    "doi": "10.1093/pnasnexus/pgag291",
+    "url": "https://doi.org/10.1093/pnasnexus/pgag291",
     "source": "CV (2026)",
     "topics": [
-      "classroom-heterogeneity",
+      "peer-networks",
       "methodology"
     ]
   },
+  {
+  "title": "Class composition effects in achievement and interest and the role of the learning environment revisited: A conceptual replication and extension of Lavrijsen et al. (2022)",
+  "authors": "Kopatz, M., Wagner, W., Neuendorf, C., Trautwein, U., Nagengast, B., & Bardach, L.",
+  "year": 2026,
+  "type": "Publication",
+  "venue": "Journal of Educational Psychology",
+  "doi": "10.1037/edu0001072",
+  "url": "https://doi.org/10.1037/edu0001072",
+  "topics": [
+    "classroom-heterogeneity",
+    "methodology"
+  ]
+},
   {
     "title": "Empfehlungen zur Umsetzung von Open Science in der Empirischen Bildungsforschung – Gemeinsame Stellungnahme der GEBF und AEPF",
     "authors": "",
@@ -37,7 +51,7 @@
     ]
   },
   {
-    "title": "Künstliche Intelligenz bei Abschlussarbeiten, Dissertationen und           Habilitationsschriften in der Psychologie",
+    "title": "Künstliche Intelligenz bei Abschlussarbeiten, Dissertationen und Habilitationsschriften in der Psychologie",
     "authors": "",
     "year": 2026,
     "type": "Publication",
@@ -72,20 +86,7 @@
       "classroom-heterogeneity"
     ]
   },
-  {
-    "title": "The global structure of classroom social networks predicts academic and psycho-social adjustment",
-    "authors": "Neuendorf, C., Masuda, N., & Murayama, K.",
-    "year": 2026,
-    "type": "Publication",
-    "venue": "PNAS Nexus",
-    "doi": "10.1093/pnasnexus/pgag291",
-    "url": "https://doi.org/10.1093/pnasnexus/pgag291",
-    "source": "CV (2026)",
-    "topics": [
-      "peer-networks",
-      "methodology"
-    ]
-  },
+ 
   {
     "title": "Die Bedeutung individueller Merkmale und konstruktiver Unterstützung der Lehrkraft für die soziale Integration von Schülerinnen und Schülern: Eine konzeptuelle Replikationsstudie",
     "authors": "",
@@ -201,7 +202,7 @@
     "doi": "10.31219/osf.io/3kjqc"
   },
   {
-    "title": "Thematisierung von Replikationen und Open Science Praktiken in Lehre und Studium –             Die Rolle von Sekundärdatenanalysen",
+    "title": "Thematisierung von Replikationen und Open Science Praktiken in Lehre und Studium – Die Rolle von Sekundärdatenanalysen",
     "authors": "",
     "year": 2022,
     "type": "Publication",
@@ -211,7 +212,7 @@
     "doi": "10.1026/0033-3042/a000575"
   },
   {
-    "title": "Wer ist leistungsstark? Operationalisierung von Leistungsstärke in                der empirischen Bildungsforschung seit dem Jahr 2000",
+    "title": "Wer ist leistungsstark? Operationalisierung von Leistungsstärke in der empirischen Bildungsforschung seit dem Jahr 2000",
     "authors": "",
     "year": 2022,
     "type": "Publication",
