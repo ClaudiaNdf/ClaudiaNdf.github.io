@@ -625,3 +625,12 @@ main {
 .sidebar {
     padding-left: 22px;
 }
+
+.name-pronunciation {
+    font-family: "Segoe UI", "Noto Sans", sans-serif;
+    font-size: 14px;
+    color: var(--muted);
+    margin-top: -5px;
+    margin-bottom: 20px;
+    letter-spacing: 0.02em;
+}
